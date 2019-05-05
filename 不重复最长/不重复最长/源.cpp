@@ -14,12 +14,12 @@ int main()
 	scanf_s("%s", s, 100);
 	for (i = 1; s[i] != '\0'; i++)
 	{
-		for (j = n; j < i; j++)
+		for (j = n; j < i; j++)//abcdbfg
 		{
 			if (s[i] == s[j])
 			{
 				count_1 = (i - n);
-				n = i;
+				n = j + 1;
 				if (count_1 > count_2)
 				{
 					count_2 = count_1;
