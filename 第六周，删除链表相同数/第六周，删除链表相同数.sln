@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第六周，删除链表相同数", "第六周，删除链表相同数\第六周，删除链表相同数.vcxproj", "{759594F8-B748-4000-BB4B-BDEA083C7E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Debug|x64.ActiveCfg = Debug|x64
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Debug|x64.Build.0 = Debug|x64
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Debug|x86.ActiveCfg = Debug|Win32
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Debug|x86.Build.0 = Debug|Win32
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Release|x64.ActiveCfg = Release|x64
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Release|x64.Build.0 = Release|x64
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Release|x86.ActiveCfg = Release|Win32
+		{759594F8-B748-4000-BB4B-BDEA083C7E92}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE33EE19-6C41-4F46-9CF0-0D2172E5028E}
+	EndGlobalSection
+EndGlobal
