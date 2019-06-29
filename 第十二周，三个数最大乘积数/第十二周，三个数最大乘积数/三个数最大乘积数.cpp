@@ -59,10 +59,7 @@ int main()
 	{
 		printf("Êä³öÎ»%d\n", num2);
 	}
-	//for (i = 0; i < n; i++)
-	//{
-	//	printf("%d\t", num[i]);
-	//}
+	free(num);
 
 	system("pause");
 	return 0;
